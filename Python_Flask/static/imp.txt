@@ -1,0 +1,3 @@
+in this folder we need to keep the files which are not seen by the end user
+
+it is only for the developers
